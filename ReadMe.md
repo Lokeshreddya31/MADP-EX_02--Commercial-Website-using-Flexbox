@@ -51,7 +51,8 @@ Deploy the website.
 Upload to GitHub Pages for free hosting.
 
 ## PROGRAM
-style.html
+
+index.html
 ```
 <!DOCTYPE html>
 <html lang="en">
@@ -133,7 +134,7 @@ style.html
 </html>
 ```
 
-index.css
+style.css
 ```
 body {
     font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
@@ -315,10 +316,16 @@ body {
   ```
 
 ## OUTPUT
+
 HOME PAGE:
+![homepage](https://github.com/user-attachments/assets/96bcdfc7-f4d1-4882-bc53-d87cd475a236)
 
 PRODUCT PAGE:
+![product](https://github.com/user-attachments/assets/215137bd-db8d-4470-8179-574c5964be60)
 
 ABOUT & CONTACT PAGE:
+![about](https://github.com/user-attachments/assets/7c5c6a23-2e91-491b-9ecb-9a53eb9b2ea5)
+
+
 ## RESULT
 The program for creating commercial website using CSS Flexbox is executed successfully.
